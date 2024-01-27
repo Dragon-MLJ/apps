@@ -82,37 +82,46 @@ h3 {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.4) ;
 }
 #app-link-CloudMusic .app-link-img {
-    background-image: url(https://cdn.jsdelivr.net/gh/Dragon-MLJ/Dragon-MLJ-Figure-bed/apps/Cloud.png);
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/Cloud.webp);
 }
 #app-link-site .app-link-img {
     background-image: url(https://camo.githubusercontent.com/68b759280d6d4884e3e1c559b300b74ad663ab0c783fd084cc827f575cc51b72/68747470733a2f2f73312e617831782e636f6d2f323032332f30372f32302f7043486e4c4c742e706e67);
 }
 #app-link-qwerty .app-link-img {
-    background-image: url(https://cdn.jsdelivr.net/gh/Dragon-MLJ/Dragon-MLJ-Figure-bed/apps/qwerty-learner.png);
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/qwerty-learner.webp);
 }
 #app-link-reader .app-link-img {
-    background-image: url(https://cdn.jsdelivr.net/gh/Dragon-MLJ/Dragon-MLJ-Figure-bed/apps/Reader.png);
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/Reader.webp);
 }
 #app-link-weather .app-link-img {
-    background-image: url(https://cdn.jsdelivr.net/gh/Dragon-MLJ/Dragon-MLJ-Figure-bed/apps/Weather.png);
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/Weather.webp);
 }
 #app-link-arknights-toolbox .app-link-img {
-    background-image: url(https://cdn.jsdelivr.net/gh/Dragon-MLJ/Dragon-MLJ-Figure-bed/apps/arknights-toolbox.webp);
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/arknights-toolbox.webp);
 }
 #app-link-logo .app-link-img {
-    background-image: url(https://cdn.jsdelivr.net/gh/Dragon-MLJ/Dragon-MLJ-Figure-bed/apps/logomaker.webp);
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/logomaker.webp);
 }
 #app-link-ip .app-link-img {
-    background-image: url(https://cdn.jsdelivr.net/gh/Dragon-MLJ/Dragon-MLJ-Figure-bed/apps/eachIP.webp);
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/eachIP.webp);
 }
 #app-link-rsshub .app-link-img {
-    background-image: url(https://cdn.jsdelivr.net/gh/Dragon-MLJ/Dragon-MLJ-Figure-bed/apps/rsshub.webp);
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/rsshub.webp);
 }
 #app-link-pixiv .app-link-img {
-    background-image: url(https://cdn.jsdelivr.net/gh/Dragon-MLJ/Dragon-MLJ-Figure-bed/apps/pixiv.webp);
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/pixiv.webp);
 }
 #app-link-bww .app-link-img {
-    background-image: url(https://cdn.jsdelivr.net/gh/Dragon-MLJ/Dragon-MLJ-Figure-bed/apps/bww-generator.webp);
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/bww-generator.webp);
+}
+#app-link-pick .app-link-img {
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/pick.webp);
+}
+#app-link-kms .app-link-img {
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/kms.webp);
+}
+#app-link-chatgpt .app-link-img {
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/chatgpt.webp);
 }
 .app-link-text {
     padding: 10px 20px;
