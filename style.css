@@ -123,6 +123,18 @@ h3 {
 #app-link-chatgpt .app-link-img {
     background-image: url(https://unpkg.com/dragon-mlj-bed/apps/chatgpt.webp);
 }
+#app-link-ba .app-link-img{
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/ba-logo.webp);
+}
+#app-link-excalidraw .app-link-img{
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/excalidraw.webp);
+}
+#app-link-carbon .app-link-img{
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/carbon.webp);
+}
+#app-link-reference .app-link-img{
+    background-image: url(https://unpkg.com/dragon-mlj-bed/apps/reference.webp);
+}
 .app-link-text {
     padding: 10px 20px;
 }
